@@ -1,0 +1,44 @@
+.box{
+    position: relative;
+    height: 800px;
+    width: 700px;
+    box-shadow: 4px 4px 4px 4px rgb(110, 110, 110);
+    margin-top: 100px;
+    margin-left: 600px;
+    background-color: whitesmoke;
+}
+p{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+.wedding{
+    font-family: 'Island Moments', cursive;
+    font-family: 'The Nautigal', cursive;
+    font-size: 3.5cm;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-top: 50px;
+}
+.lauren{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+.friday{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    margin-bottom: 15px;
+    font-size: 20px;    
+}
+.please{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    margin-bottom: 10px;
+    padding-top: 0px;
+    
+}
+.reception{
+    font-family: 'Island Moments', cursive;
+    font-family: 'The Nautigal', cursive;
+    font-size: 25px;
+    text-align: center;
+}
